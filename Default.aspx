@@ -1,12 +1,12 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="C3plus.ir._Default" %>
+﻿<%@ Page Title="C3plus" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="C3plus.ir._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
         <h1>
             <asp:Image runat="server" ImageUrl="~/Images/download.png" Style="" /></h1>
-        <p class="lead">C+++ is a C++ library for building great programs with the power of C++ and style like javascript or python.</p>
-        <p>Ctriplus is dynamically-typed and no need for garbage-collection. It compiles, therfore there is no need for interpretation or
+        <p class="lead">C3plus is a C++ library for building great programs with the power of C++ and style like javascript or python.</p>
+        <p>Ctriplus is a dynamically-typed and no need for garbage-collection. It compiles, therfore there is no need for interpretation or
             any virtual machine or anything else. It is totally  machine code. It is as fast as C++ and as easy as javascript.
             You can compile C++ for any platform.
             There is nothing like garbage-collector latancy. </p>

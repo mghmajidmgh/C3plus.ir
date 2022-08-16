@@ -124,6 +124,8 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Images\C3plus.ico" />
+    <Content Include="Images\favicon.ico" />
     <Content Include="LearnMore.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Images\download.png" />
@@ -220,6 +222,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Documentation\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
